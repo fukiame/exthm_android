@@ -130,6 +130,7 @@
     <remove-project name="platform/hardware/ril" />
 
     <!-- Packages -->
+    <remove-project name="platform/packages/apps/CarrierConfig" />
     <remove-project name="platform/packages/apps/Nfc" />
     <remove-project name="platform/packages/apps/Settings" />
     <remove-project name="platform/packages/apps/ThemePicker" />
