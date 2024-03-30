@@ -81,7 +81,7 @@
     <project path="external/ant-wireless/ant_service" name="LineageOS/android_external_ant-wireless_ant_service" groups="qcom,sdm660" remote="LineageOS" />
     <project path="external/ant-wireless/hidl" name="LineageOS/android_external_ant-wireless_hidl" groups="qcom,qssi" remote="LineageOS" />
     <project path="external/json-c" name="LineageOS/android_external_json-c" groups="qcom,qssi" remote="LineageOS" />
-    <project path="external/libncurses" name="LineageOS/android_external_libncurses" remote="LineageOS" />
+    <project path="external/libncurses" name="LineageOS/android_external_libncurses" remote="github" revision="2d87040ef56d93aa0ac4331fc3dfafdfdc5e9f8a" />
     <project path="external/ntfs-3g" name="LineageOS/android_external_ntfs-3g" remote="LineageOS" />
     <project path="external/openssh" name="LineageOS/android_external_openssh" groups="pdk" remote="LineageOS" />
     <project path="external/rsync" name="LineageOS/android_external_rsync" remote="LineageOS" />
