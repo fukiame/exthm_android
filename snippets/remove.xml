@@ -92,17 +92,14 @@
     <remove-project name="platform/external/cronet" />
     <remove-project name="platform/external/dtc" />
     <remove-project name="platform/external/e2fsprogs" />
-    <remove-project name="platform/external/exfatprogs" />
     <remove-project name="platform/external/gptfdisk" />
     <remove-project name="platform/external/libcxx" />
     <remove-project name="platform/external/libnl" />
-    <remove-project name="platform/external/libvpx" />
     <remove-project name="platform/external/mksh" />
     <remove-project name="platform/external/setupcompat" />
     <remove-project name="platform/external/tinycompress" />
     <remove-project name="platform/external/webp" />
     <remove-project name="platform/external/wpa_supplicant_8" />
-    <remove-project name="platform/external/zstd" />
 
     <!-- Frameworks -->
     <remove-project name="platform/frameworks/av"/>
@@ -141,7 +138,6 @@
     <remove-project name="platform/packages/apps/ThemePicker" />
     <remove-project name="platform/packages/modules/adb" />
     <remove-project name="platform/packages/modules/Bluetooth" />
-    <remove-project name="platform/packages/modules/common" />
     <remove-project name="platform/packages/modules/Wifi" />
     <remove-project name="platform/packages/services/Telecomm" />
     <remove-project name="platform/packages/services/Telephony" />
