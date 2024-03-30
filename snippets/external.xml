@@ -28,7 +28,6 @@
     <project path="external/libcxx" name="external_libcxx" remote="pixel" />
     <project path="external/libnl" name="external_libnl" remote="pixel" />
     <project path="external/mksh" name="external_mksh" remote="pixel" />
-    <project path="external/setupcompat" name="external_setupcompat" remote="pixel" />
     <project path="external/tinycompress" name="external_tinycompress" remote="pixel" />
     <project path="external/webp" name="external_webp" remote="pixel" />
     <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" remote="pixel" />
